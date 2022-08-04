@@ -1,3 +1,7 @@
+# GifExpertApp
+este es mi repositorio de mi primer app. aprendiendo react
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
